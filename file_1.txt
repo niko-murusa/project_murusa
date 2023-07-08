@@ -1,1 +1,4 @@
 Programming: Learn, Study, Practise do again while...
+While code gives error, type more code.
+Let's make it more clear!
+checking reset command!
